@@ -1,8 +1,8 @@
 
 @font-face {
-  font-family: "IBMbold";
-  src: local("IBM"),
-    url("./assets/fonts/IBM_Plex_Sans/IBMPlexSans-Bold.ttf") format("truetype");
+  font-family: "Karla";
+  src: local("Karla"),
+    url("./assets/fonts/Karla/Karla-VariableFont_wght.ttf") format("truetype");
 }
 
 body{
