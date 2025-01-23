@@ -9,6 +9,13 @@ export const WhyUsCustom = styled.div`
   text-align: left;
   background-color: #62ccc9;
 
+  @media (min-width: 1280px) {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+
   & > h3 {
     margin-bottom: 18px;
 
@@ -17,7 +24,7 @@ export const WhyUsCustom = styled.div`
     color: #fff;
   }
 
-  & > p{
+  & > p {
     font-size: 14px;
     line-height: 1.43;
     letter-spacing: -0.17px;
